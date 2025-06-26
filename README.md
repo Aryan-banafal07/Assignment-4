@@ -2,12 +2,10 @@
 Exploratory Data Analysis (EDA) Conduct an in-depth Exploratory Data Analysis on a complex dataset. Focus on understanding data distributions, identifying missing values, detecting outliers, and uncovering relationships between variables. Utilize visualizations like histograms, box plots, and heatmaps to support your findings.
 
 
-# output
+# Output
 
 Dataset Info:
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 891 entries, 0 to 890
-Data columns (total 15 columns):
+
  #   Column       Non-Null Count  Dtype   
 ---  ------       --------------  -----   
  0   survived     891 non-null    int64   
