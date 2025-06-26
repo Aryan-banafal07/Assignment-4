@@ -6,7 +6,7 @@ Exploratory Data Analysis (EDA) Conduct an in-depth Exploratory Data Analysis on
 
 Dataset Info:
 
- #   Column       Non-Null Count  Dtype   
+ No   Column       Non-Null Count  Dtype   
 ---  ------       --------------  -----   
  0   survived     891 non-null    int64   
  1   pclass       891 non-null    int64   
